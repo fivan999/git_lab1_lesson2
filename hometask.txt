@@ -1,2 +1,9 @@
 Человечки в обеих ветках одинаковые, но файлы README различаются.
 В ветке master дописано with nice buttons on his jacket (buttons branch)
+
+Комментарии из коммитов:
+1) Merge remote-tracking branch 'origin/boots' into boots_buttons
+2) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+3) Merge remote-tracking branch 'origin/hat'
+4) Merge branch 'boots_buttons'
+5) add hometask.txt
