@@ -1,0 +1,2 @@
+Человечки в обеих ветках одинаковые, но файлы README различаются.
+В ветке master дописано with nice buttons on his jacket (buttons branch)
